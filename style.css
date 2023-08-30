@@ -21,7 +21,7 @@ body {
 }
 
 .principal {
-    background-image: url("img/Background.png");
+    background-image: url("logo.jpeg");
     background-repeat: no-repeat;
     background-size: contain;
     align-items: center;
@@ -159,9 +159,9 @@ body {
     color: var(--cor-de-fundo);
 }
 h1{
-    color: cornsilk;
+    color: rgb(253, 15, 15);
 }
-h2{color: cornsilk;}
+h2{color: rgb(255, 9, 9);}
 @media screen and (
     max-width:800px
 ){
